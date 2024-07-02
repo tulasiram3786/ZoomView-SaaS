@@ -1,23 +1,176 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="200c7de4-f139-4724-8e78-b3492b0e4f49" name="Changes" comment="" />
+    <list default="true" id="200c7de4-f139-4724-8e78-b3492b0e4f49" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_pages/Dashboard_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_pages/Dashboard_Page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_pages/Forgot_Password_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_pages/Forgot_Password_Page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_pages/Gmail_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_pages/Gmail_email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_pages/Login_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_pages/Login_Page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_pages/Signup_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_pages/Signup_Page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_pages/notification_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_pages/notification_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_pages/signup_page1.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_pages/signup_page1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_pages/zoho_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_pages/zoho_email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configurations/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/configurations/config.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/zoomview.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/zoomview.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/test_Dashboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/test_Dashboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/test_Forgotpassword.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/test_Forgotpassword.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/test_Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/test_Login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/test_Login_datadriven.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/test_Login_datadriven.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/test_Signup.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/test_Signup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/test_otpgmail.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/test_otpgmail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_cases/test_verifygmailotp.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/test_verifygmailotp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_data/zoomview_login_data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/test_data/zoomview_login_data.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/custom_logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/custom_logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/excel_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/excel_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/random.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/random.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/read_properties.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/read_properties.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2i88pEmHWZZBjzNmyKVhznXYfR1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for test_Forgotpassword.Test_ForgotPassword.test_forgotpassword_verify_otp.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Login.Test_Login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Login.Test_Login.test_invalid_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Login.Test_Login.test_title_verification.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Login.Test_Login.test_valid_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Signup.Test_Signup.test_createpassword_invaliddetails.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Signup.Test_Signup.test_firstname_invaliddetails.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Signup.Test_Signup.test_firstname_validation.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Signup.Test_Signup.test_signup_page_validation.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Signup.Test_Signup.test_signup_title_verification.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Signup.Test_Signup.test_signup_valid_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_signup1.test_first_name_validation.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Login.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_verifygmailotp.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/zcsu016/Desktop/pythonselenium/ZoomView-SaaS/ZoomView-SaaS/test_data&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zcsu016\Desktop\pythonselenium\ZoomView-SaaS\ZoomView-SaaS\test_data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_Signup.Test_Signup.test_createpassword_invaliddetails">
+    <configuration name="Python tests for test_Forgotpassword.Test_ForgotPassword.test_forgotpassword_verify_otp" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ZoomView-SaaS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Forgotpassword.Test_ForgotPassword.test_forgotpassword_verify_otp&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Signup.Test_Signup.test_createpassword_invaliddetails" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ZoomView-SaaS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Signup.Test_Signup.test_createpassword_invaliddetails&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Signup.Test_Signup.test_signup_title_verification" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ZoomView-SaaS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Signup.Test_Signup.test_signup_title_verification&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_Login.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ZoomView-SaaS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_cases/test_Login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_verifygmailotp.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="ZoomView-SaaS" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_cases/test_verifygmailotp.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_Signup.Test_Signup.test_createpassword_invaliddetails" />
+        <item itemvalue="Python tests.Python tests for test_Signup.Test_Signup.test_signup_title_verification" />
+        <item itemvalue="Python tests.Python tests in test_verifygmailotp.py" />
+        <item itemvalue="Python tests.Python tests for test_Forgotpassword.Test_ForgotPassword.test_forgotpassword_verify_otp" />
+        <item itemvalue="Python tests.Python tests in test_Login.py" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -36,5 +189,8 @@
       <updated>1718861025124</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
