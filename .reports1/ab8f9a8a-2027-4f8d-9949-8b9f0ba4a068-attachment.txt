@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_Login.py:17 *************** Test_Login *********************
+[32mINFO    [0m root:test_Login.py:18 *************** verification of login page title *********************
+[32mINFO    [0m root:test_Login.py:28 *************** test_title_verification - Title Matched *********************

@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_Login.py:109 *************** test_valid_email_login started *********************
+[32mINFO    [0m root:test_Login.py:124 *************** login password error text found *********************

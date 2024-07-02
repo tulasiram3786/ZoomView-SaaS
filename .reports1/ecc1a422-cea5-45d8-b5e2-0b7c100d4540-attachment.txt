@@ -1,0 +1,4 @@
+[32mINFO    [0m root:test_Login.py:203 *************** test_login_password_invaliddetails started *********************
+[32mINFO    [0m root:test_Login.py:220 *************** Testing password: Tulasiram111 *********************
+[32mINFO    [0m root:test_Login.py:235 *************** password 'Tulasiram111' validation text found *********************
+[32mINFO    [0m root:test_Login.py:220 *************** Testing password: tu *********************
