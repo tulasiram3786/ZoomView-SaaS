@@ -20,6 +20,7 @@ class Test_Login:
     def test_title_verification(self,setup):
         self.logger.info("*************** Test_Login *********************")
         self.logger.info("*************** verification of login page title *********************")
+        print("tulasiram login")
         self.driver = setup
         self.driver.get(self.loginpage_url)
         self.driver.maximize_window()
