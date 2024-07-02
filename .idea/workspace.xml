@@ -4,34 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="200c7de4-f139-4724-8e78-b3492b0e4f49" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="200c7de4-f139-4724-8e78-b3492b0e4f49" name="Changes" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_pages/Dashboard_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_pages/Dashboard_Page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_pages/Forgot_Password_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_pages/Forgot_Password_Page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_pages/Gmail_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_pages/Gmail_email.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_pages/Login_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_pages/Login_Page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_pages/Signup_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_pages/Signup_Page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_pages/notification_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_pages/notification_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_pages/signup_page1.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_pages/signup_page1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_pages/zoho_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_pages/zoho_email.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configurations/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/configurations/config.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/zoomview.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/zoomview.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_cases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_cases/test_Dashboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/test_Dashboard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_cases/test_Forgotpassword.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/test_Forgotpassword.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_cases/test_Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/test_Login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_cases/test_Login_datadriven.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/test_Login_datadriven.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_cases/test_Signup.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/test_Signup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_cases/test_otpgmail.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/test_otpgmail.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_cases/test_verifygmailotp.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/test_verifygmailotp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_data/zoomview_login_data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/test_data/zoomview_login_data.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utilities/custom_logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/custom_logger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utilities/excel_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/excel_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utilities/random.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/random.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utilities/read_properties.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/read_properties.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,8 +82,9 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (ZoomView-SaaS)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
@@ -162,6 +137,13 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python tests.Python tests for test_Forgotpassword.Test_ForgotPassword.test_forgotpassword_verify_otp" />
+      <item itemvalue="Python tests.Python tests for test_Signup.Test_Signup.test_createpassword_invaliddetails" />
+      <item itemvalue="Python tests.Python tests for test_Signup.Test_Signup.test_signup_title_verification" />
+      <item itemvalue="Python tests.Python tests in test_Login.py" />
+      <item itemvalue="Python tests.Python tests in test_verifygmailotp.py" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Python tests for test_Signup.Test_Signup.test_createpassword_invaliddetails" />
@@ -188,9 +170,20 @@
       <option name="presentableId" value="Default" />
       <updated>1718861025124</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <option name="closed" value="true" />
+      <created>1719914046141</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719914046141</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
