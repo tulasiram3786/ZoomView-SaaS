@@ -2333,3 +2333,11 @@
 2024-07-08 12:40:57:INFO:*************** printing lama uat values *********************
 2024-07-08 12:41:09:INFO:*************** test_print_dashboard_lamaprod_values print lama prod values *********************
 2024-07-08 12:41:09:INFO:*************** printing lama prod values *********************
+2024-07-08 16:58:50:INFO:*************** Test_Dashboard table *********************
+2024-07-08 16:58:50:INFO:*************** Table data is printed *********************
+2024-07-08 16:59:07:INFO:*************** test_print_dashboard_lama_values print lama uat values *********************
+2024-07-08 16:59:07:INFO:*************** printing lama uat values *********************
+2024-07-08 16:59:15:INFO:*************** test_print_dashboard_lamaprod_values print lama prod values *********************
+2024-07-08 16:59:15:INFO:*************** printing lama prod values *********************
+2024-07-08 17:25:59:INFO:*************** Test_Dashboard table *********************
+2024-07-08 17:25:59:INFO:*************** Table data is printed *********************
