@@ -1,0 +1,15 @@
+[32mINFO    [0m root:test_Login.py:209 *************** test_login_password_invaliddetails started *********************
+[32mINFO    [0m root:test_Login.py:226 *************** Testing password: Tulasiram111 *********************
+[32mINFO    [0m root:test_Login.py:241 *************** password 'Tulasiram111' validation text found *********************
+[32mINFO    [0m root:test_Login.py:226 *************** Testing password: tu *********************
+[32mINFO    [0m root:test_Login.py:241 *************** password 'tu' validation text found *********************
+[32mINFO    [0m root:test_Login.py:226 *************** Testing password: Tulasiram djdkfkjfjfkf fkdfjfjjfjfjf fjfjfhere iam entering more than 50 characters *********************
+[32mINFO    [0m root:test_Login.py:241 *************** password 'Tulasiram djdkfkjfjfkf fkdfjfjjfjfjf fjfjfhere iam entering more than 50 characters' validation text found *********************
+[32mINFO    [0m root:test_Login.py:226 *************** Testing password:            *********************
+[32mINFO    [0m root:test_Login.py:241 *************** password '          ' validation text found *********************
+[32mINFO    [0m root:test_Login.py:226 *************** Testing password: at name last space   *********************
+[32mINFO    [0m root:test_Login.py:241 *************** password 'at name last space  ' validation text found *********************
+[32mINFO    [0m root:test_Login.py:226 *************** Testing password: 9865478922 *********************
+[32mINFO    [0m root:test_Login.py:241 *************** password '9865478922' validation text found *********************
+[32mINFO    [0m root:test_Login.py:226 *************** Testing password: $*$&#*#-#_@ *********************
+[32mINFO    [0m root:test_Login.py:241 *************** password '$*$&#*#-#_@' validation text found *********************

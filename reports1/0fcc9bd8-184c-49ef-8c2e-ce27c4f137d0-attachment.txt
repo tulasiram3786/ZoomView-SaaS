@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_Login.py:68 *************** test_valid_login started *********************
+[32mINFO    [0m root:test_Login.py:82 *************** Dashboard text found *********************

@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_Settings.py:18 *************** Test_Settings *********************
+[32mINFO    [0m root:test_Settings.py:19 *************** verification of settings page title *********************
+[32mINFO    [0m root:test_Settings.py:41 *************** test_title_verification_for_settigspage - Title Matched *********************

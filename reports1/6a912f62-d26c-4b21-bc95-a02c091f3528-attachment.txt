@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_Settings.py:96 *************** Test_Settings *********************

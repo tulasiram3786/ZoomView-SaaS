@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_Settings.py:56 *************** Test_Settings *********************
+[32mINFO    [0m root:test_Settings.py:83 *************** test_settings_enteremail - email entered *********************

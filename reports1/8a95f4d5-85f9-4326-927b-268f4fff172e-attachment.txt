@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_Settings.py:142 *************** Test_Settings *********************
+[32mINFO    [0m root:test_Settings.py:157 *************** Testing Email: tulasi@gmail.commmmmmm *********************

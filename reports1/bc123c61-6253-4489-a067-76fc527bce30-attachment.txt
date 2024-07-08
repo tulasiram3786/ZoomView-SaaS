@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_Settings.py:96 *************** Test_Settings *********************
+[32mINFO    [0m root:test_Settings.py:125 *************** test_settings_remove_email - email Removed *********************

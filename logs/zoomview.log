@@ -1684,3 +1684,652 @@
 2024-07-01 18:14:21:INFO:*************** signup page verification text found *********************
 2024-07-01 18:14:25:INFO:*************** test_signup_valid_login started *********************
 2024-07-01 18:14:41:INFO:*************** signup page verification text found *********************
+2024-07-02 17:46:01:INFO:*************** Test_Login *********************
+2024-07-02 17:46:01:INFO:*************** verification of login page title *********************
+2024-07-02 17:46:06:INFO:*************** test_title_verification - Title Matched *********************
+2024-07-02 17:46:09:INFO:*************** test_login_page_validation started *********************
+2024-07-02 17:46:16:INFO:*************** login page verification text found *********************
+2024-07-02 17:46:20:INFO:*************** test_valid_login started *********************
+2024-07-02 17:46:33:INFO:*************** Dashboard text found *********************
+2024-07-02 17:46:33:INFO:*************** test_invalid_login started *********************
+2024-07-02 17:46:45:INFO:*************** test_invalid_login - error messages matched *********************
+2024-07-02 17:46:47:INFO:*************** test_valid_email_login started *********************
+2024-07-02 17:46:59:INFO:*************** login password error text found *********************
+2024-07-02 17:47:01:INFO:*************** test_valid_password_login started *********************
+2024-07-02 17:47:15:INFO:*************** login error text found *********************
+2024-07-02 17:47:16:INFO:*************** test_login_email_invaliddetails strted *********************
+2024-07-02 17:47:16:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-02 17:47:29:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-02 17:47:29:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-02 17:47:39:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-02 17:47:39:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-02 17:47:49:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-02 17:47:49:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-02 17:48:00:INFO:*************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************
+2024-07-02 17:48:04:INFO:*************** test_login_password_invaliddetails started *********************
+2024-07-02 17:48:04:INFO:*************** Testing password: Tulasiram111 *********************
+2024-07-02 17:48:17:INFO:*************** password 'Tulasiram111' validation text found *********************
+2024-07-02 17:48:17:INFO:*************** Testing password: tu *********************
+2024-07-02 17:48:29:INFO:*************** password 'tu' validation text found *********************
+2024-07-02 17:48:29:INFO:*************** Testing password: Tulasiram djdkfkjfjfkf fkdfjfjjfjfjf fjfjfhere iam entering more than 50 characters *********************
+2024-07-02 17:48:42:INFO:*************** password 'Tulasiram djdkfkjfjfkf fkdfjfjjfjfjf fjfjfhere iam entering more than 50 characters' validation text found *********************
+2024-07-02 17:48:42:INFO:*************** Testing password:            *********************
+2024-07-02 17:48:54:INFO:*************** password '          ' validation text found *********************
+2024-07-02 17:48:54:INFO:*************** Testing password: at name last space   *********************
+2024-07-02 17:49:06:INFO:*************** password 'at name last space  ' validation text found *********************
+2024-07-02 17:49:06:INFO:*************** Testing password: 9865478922 *********************
+2024-07-02 17:49:18:INFO:*************** password '9865478922' validation text found *********************
+2024-07-02 17:49:18:INFO:*************** Testing password: $*$&#*#-#_@ *********************
+2024-07-02 17:49:30:INFO:*************** password '$*$&#*#-#_@' validation text found *********************
+2024-07-02 18:27:48:INFO:*************** Test_Login *********************
+2024-07-02 18:27:48:INFO:*************** verification of login page title *********************
+2024-07-02 18:27:54:INFO:*************** test_title_verification - Title Matched *********************
+2024-07-02 18:27:56:INFO:*************** test_login_page_validation started *********************
+2024-07-02 18:28:04:INFO:*************** login page verification text found *********************
+2024-07-02 18:28:09:INFO:*************** Test_Signup *********************
+2024-07-02 18:28:09:INFO:*************** verification of signup page title *********************
+2024-07-02 18:28:14:INFO:*************** test_signup_title_verification - Title Matched *********************
+2024-07-02 18:28:18:INFO:*************** test_signup_page_validation started *********************
+2024-07-02 18:28:26:INFO:*************** signup page verification text found *********************
+2024-07-02 18:28:32:INFO:*************** test_signup_valid_login started *********************
+2024-07-02 18:28:50:INFO:*************** signup page verification text found *********************
+2024-07-02 18:36:17:INFO:*************** Test_Dashboard table *********************
+2024-07-02 18:36:17:INFO:*************** Table data is printed *********************
+2024-07-02 18:36:35:INFO:*************** forgotpassword_verify_otp started *********************
+2024-07-02 18:39:14:INFO:*************** Dashboard text found *********************
+2024-07-02 18:39:17:INFO:*************** Test_Login *********************
+2024-07-02 18:39:17:INFO:*************** verification of login page title *********************
+2024-07-02 18:39:22:INFO:*************** test_title_verification - Title Matched *********************
+2024-07-02 18:39:24:INFO:*************** test_login_page_validation started *********************
+2024-07-02 18:39:32:INFO:*************** login page verification text found *********************
+2024-07-02 18:39:36:INFO:*************** test_valid_login started *********************
+2024-07-02 18:39:50:INFO:*************** Dashboard text found *********************
+2024-07-02 18:39:50:INFO:*************** test_invalid_login started *********************
+2024-07-02 18:40:03:INFO:*************** test_invalid_login - error messages matched *********************
+2024-07-02 18:40:06:INFO:*************** test_valid_email_login started *********************
+2024-07-02 18:40:19:INFO:*************** login password error text found *********************
+2024-07-02 18:40:22:INFO:*************** test_valid_password_login started *********************
+2024-07-02 18:40:35:INFO:*************** login error text found *********************
+2024-07-02 18:40:38:INFO:*************** test_login_email_invaliddetails strted *********************
+2024-07-02 18:40:38:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-02 18:40:49:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-02 18:40:49:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-02 18:40:59:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-02 18:40:59:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-02 18:41:10:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-02 18:41:10:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-02 18:41:20:INFO:*************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************
+2024-07-02 18:41:25:INFO:*************** test_login_password_invaliddetails started *********************
+2024-07-02 18:41:25:INFO:*************** Testing password: Tulasiram111 *********************
+2024-07-02 18:41:38:INFO:*************** password 'Tulasiram111' validation text found *********************
+2024-07-02 18:41:38:INFO:*************** Testing password: tu *********************
+2024-07-02 18:41:51:INFO:*************** password 'tu' validation text found *********************
+2024-07-02 18:41:51:INFO:*************** Testing password: Tulasiram djdkfkjfjfkf fkdfjfjjfjfjf fjfjfhere iam entering more than 50 characters *********************
+2024-07-02 18:42:04:INFO:*************** password 'Tulasiram djdkfkjfjfkf fkdfjfjjfjfjf fjfjfhere iam entering more than 50 characters' validation text found *********************
+2024-07-02 18:42:04:INFO:*************** Testing password:            *********************
+2024-07-02 18:42:16:INFO:*************** password '          ' validation text found *********************
+2024-07-02 18:42:16:INFO:*************** Testing password: at name last space   *********************
+2024-07-02 18:42:28:INFO:*************** password 'at name last space  ' validation text found *********************
+2024-07-02 18:42:28:INFO:*************** Testing password: 9865478922 *********************
+2024-07-02 18:42:41:INFO:*************** password '9865478922' validation text found *********************
+2024-07-02 18:42:41:INFO:*************** Testing password: $*$&#*#-#_@ *********************
+2024-07-02 18:42:53:INFO:*************** password '$*$&#*#-#_@' validation text found *********************
+2024-07-02 18:42:58:INFO:*************** test_valid_login_data_driven started *********************
+2024-07-02 18:43:06:INFO:test data is passed
+2024-07-02 18:43:18:INFO:test data is passed
+2024-07-02 18:43:22:INFO:test data is passed
+2024-07-02 18:43:22:INFO:Test data driven test is passed
+2024-07-02 18:43:24:INFO:*************** Test_Signup *********************
+2024-07-02 18:43:24:INFO:*************** verification of signup page title *********************
+2024-07-02 18:43:29:INFO:*************** test_signup_title_verification - Title Matched *********************
+2024-07-02 18:43:33:INFO:*************** test_signup_page_validation started *********************
+2024-07-02 18:43:42:INFO:*************** signup page verification text found *********************
+2024-07-02 18:43:46:INFO:*************** test_signup_valid_login started *********************
+2024-07-02 18:44:04:INFO:*************** signup page verification text found *********************
+2024-07-02 18:44:08:INFO:*************** test_firstname_invaliddetails started *********************
+2024-07-02 18:44:08:INFO:*************** Testing first name: Tulasiram111 *********************
+2024-07-02 18:44:19:INFO:*************** First name 'Tulasiram111' validation text found *********************
+2024-07-02 18:44:19:INFO:*************** Testing first name: tu *********************
+2024-07-02 18:44:29:INFO:*************** First name 'tu' validation text found *********************
+2024-07-02 18:44:29:INFO:*************** Testing first name: Tulasiram here iam entering more than 30 characters *********************
+2024-07-02 18:44:40:INFO:*************** First name 'Tulasiram here iam entering more than 30 characters' validation text found *********************
+2024-07-02 18:44:40:INFO:*************** Testing first name: tuDJD12$% *********************
+2024-07-02 18:44:51:INFO:*************** First name 'tuDJD12$%' validation text found *********************
+2024-07-02 18:44:51:INFO:*************** Testing first name:            *********************
+2024-07-02 18:45:01:INFO:*************** First name '          ' validation text found *********************
+2024-07-02 18:45:01:INFO:*************** Testing first name: at name last space   *********************
+2024-07-02 18:45:12:INFO:*************** First name 'at name last space  ' validation text found *********************
+2024-07-02 18:45:12:INFO:*************** Testing first name: 9865478922 *********************
+2024-07-02 18:45:22:INFO:*************** First name '9865478922' validation text found *********************
+2024-07-02 18:45:22:INFO:*************** Testing first name: $*$&#*#-#_@ *********************
+2024-07-02 18:45:32:INFO:*************** First name '$*$&#*#-#_@' validation text found *********************
+2024-07-02 18:45:37:INFO:*************** test_lastaname_invaliddetails strted *********************
+2024-07-02 18:45:37:INFO:*************** Testing last name: Tulasiram here iam entering more than 30 characters *********************
+2024-07-02 18:45:48:INFO:*************** Last name 'Tulasiram here iam entering more than 30 characters' validation text found *********************
+2024-07-02 18:45:48:INFO:*************** Testing last name: tuDJD12$% *********************
+2024-07-02 18:45:59:INFO:*************** Last name 'tuDJD12$%' validation text found *********************
+2024-07-02 18:45:59:INFO:*************** Testing last name:            *********************
+2024-07-02 18:46:09:INFO:*************** Last name '          ' validation text found *********************
+2024-07-02 18:46:09:INFO:*************** Testing last name: at name last space   *********************
+2024-07-02 18:46:20:INFO:*************** Last name 'at name last space  ' validation text found *********************
+2024-07-02 18:46:20:INFO:*************** Testing last name: 9865478922 *********************
+2024-07-02 18:46:30:INFO:*************** Last name '9865478922' validation text found *********************
+2024-07-02 18:46:30:INFO:*************** Testing last name: $*$&#*#-#_@ *********************
+2024-07-02 18:46:41:INFO:*************** Last name '$*$&#*#-#_@' validation text found *********************
+2024-07-02 18:46:45:INFO:*************** test_email_invaliddetails strted *********************
+2024-07-02 18:46:45:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-02 18:46:57:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-02 18:46:57:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-02 18:47:08:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-02 18:47:08:INFO:*************** Testing Email:            *********************
+2024-07-02 18:47:18:INFO:*************** Email '          ' validation text found *********************
+2024-07-02 18:47:18:INFO:*************** Testing Email: tulasi@gmail.com  *********************
+2024-07-02 18:47:29:INFO:*************** Email 'tulasi@gmail.com ' validation text found *********************
+2024-07-02 18:47:29:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-02 18:47:40:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-02 18:47:40:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-02 18:47:51:INFO:*************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************
+2024-07-02 18:47:55:INFO:*************** test_companyname_invaliddetails strted *********************
+2024-07-02 18:47:55:INFO:*************** Testing Companyname: tulasiram testing company name here iam entering more than 50 characters *********************
+2024-07-02 18:48:07:INFO:*************** Companyname 'tulasiram testing company name here iam entering more than 50 characters' validation text found *********************
+2024-07-02 18:48:07:INFO:*************** Testing Companyname: .......... *********************
+2024-07-02 18:48:18:INFO:*************** Companyname '..........' validation text found *********************
+2024-07-02 18:48:18:INFO:*************** Testing Companyname:            *********************
+2024-07-02 18:48:29:INFO:*************** Companyname '          ' validation text found *********************
+2024-07-02 18:48:29:INFO:*************** Testing Companyname: tulasi  *********************
+2024-07-02 18:48:39:INFO:*************** Companyname 'tulasi ' validation text found *********************
+2024-07-02 18:48:43:INFO:*************** test_phonenumber_invaliddetails strted *********************
+2024-07-02 18:48:43:INFO:*************** Testing Phonenumber: 9847 *********************
+2024-07-02 18:48:54:INFO:*************** Phonenumber '9847' validation text found *********************
+2024-07-02 18:48:54:INFO:*************** Testing Phonenumber: 959574653333375 *********************
+2024-07-02 18:49:05:INFO:*************** Phonenumber '959574653333375' validation text found *********************
+2024-07-02 18:49:05:INFO:*************** Testing Phonenumber: 1196859874 *********************
+2024-07-02 18:49:15:INFO:*************** Phonenumber '1196859874' validation text found *********************
+2024-07-02 18:49:19:INFO:*************** test_designation_invaliddetails started *********************
+2024-07-02 18:49:19:INFO:*************** Testing Designation: Tulasiram testing designation feild and here iam entering more than 50 characters *********************
+2024-07-02 18:49:32:INFO:*************** Designation 'Tulasiram testing designation feild and here iam entering more than 50 characters' validation text found *********************
+2024-07-02 18:49:32:INFO:*************** Testing Designation:            *********************
+2024-07-02 18:49:43:INFO:*************** Designation '          ' validation text found *********************
+2024-07-02 18:49:43:INFO:*************** Testing Designation: at designation last space   *********************
+2024-07-02 18:49:53:INFO:*************** Designation 'at designation last space  ' validation text found *********************
+2024-07-02 18:49:58:INFO:*************** test_createpassword_invaliddetails started *********************
+2024-07-02 18:49:58:INFO:*************** Testing Createpassword: Tulasiram111 *********************
+2024-07-02 18:50:10:INFO:*************** Createpassword 'Tulasiram111' validation text found *********************
+2024-07-02 18:50:10:INFO:*************** Testing Createpassword: tu *********************
+2024-07-02 18:50:22:INFO:*************** Createpassword 'tu' validation text found *********************
+2024-07-02 18:50:22:INFO:*************** Testing Createpassword: Tulasiram djdkfkjfjfkf fkdfjfjjfjfjf fjfjfhere iam entering more than 50 characters *********************
+2024-07-02 18:50:35:INFO:*************** Createpassword 'Tulasiram djdkfkjfjfkf fkdfjfjjfjfjf fjfjfhere iam entering more than 50 characters' validation text found *********************
+2024-07-02 18:50:35:INFO:*************** Testing Createpassword:            *********************
+2024-07-02 18:50:47:INFO:*************** Createpassword '          ' validation text found *********************
+2024-07-02 18:50:47:INFO:*************** Testing Createpassword: at name last space   *********************
+2024-07-02 18:50:58:INFO:*************** Createpassword 'at name last space  ' validation text found *********************
+2024-07-02 18:50:58:INFO:*************** Testing Createpassword: 9865478922 *********************
+2024-07-02 18:51:10:INFO:*************** Createpassword '9865478922' validation text found *********************
+2024-07-02 18:51:10:INFO:*************** Testing Createpassword: $*$&#*#-#_@ *********************
+2024-07-02 18:51:21:INFO:*************** Createpassword '$*$&#*#-#_@' validation text found *********************
+2024-07-02 18:51:26:INFO:*************** test_conformpassword_invaliddetails started *********************
+2024-07-02 18:51:26:INFO:*************** Testing Conformpassword: Tulasiram111 *********************
+2024-07-02 18:51:39:INFO:*************** Conformpassword 'Tulasiram111' validation text found *********************
+2024-07-02 18:51:39:INFO:*************** Testing Conformpassword: tu *********************
+2024-07-02 18:51:52:INFO:*************** Conformpassword 'tu' validation text found *********************
+2024-07-02 18:51:52:INFO:*************** Testing Conformpassword: Tulasiram djdkfkjfjfkf fkdfjfjjfjfjf fjfjfhere iam entering more than 50 characters *********************
+2024-07-02 18:52:04:INFO:*************** Conformpassword 'Tulasiram djdkfkjfjfkf fkdfjfjjfjfjf fjfjfhere iam entering more than 50 characters' validation text found *********************
+2024-07-02 18:52:04:INFO:*************** Testing Conformpassword:            *********************
+2024-07-02 18:52:15:INFO:*************** Conformpassword '          ' validation text found *********************
+2024-07-02 18:52:15:INFO:*************** Testing Conformpassword: at name last space   *********************
+2024-07-02 18:52:26:INFO:*************** Conformpassword 'at name last space  ' validation text found *********************
+2024-07-02 18:52:26:INFO:*************** Testing Conformpassword: 9865478922 *********************
+2024-07-02 18:52:38:INFO:*************** Conformpassword '9865478922' validation text found *********************
+2024-07-02 18:52:38:INFO:*************** Testing Conformpassword: $*$&#*#-#_@ *********************
+2024-07-02 18:52:49:INFO:*************** Conformpassword '$*$&#*#-#_@' validation text found *********************
+2024-07-03 12:47:37:INFO:*************** Test_Settings *********************
+2024-07-03 12:47:37:INFO:*************** verification of settings page title *********************
+2024-07-03 12:47:51:INFO:*************** test_title_verification_for_settigspage - Title Matched *********************
+2024-07-03 12:49:06:INFO:*************** Test_Settings *********************
+2024-07-03 12:49:06:INFO:*************** verification of settings page title *********************
+2024-07-03 12:49:20:INFO:*************** test_title_verification_for_settigspage - Title Matched *********************
+2024-07-03 13:26:34:INFO:*************** Test_Settings *********************
+2024-07-03 13:26:34:INFO:*************** verification of settings page title *********************
+2024-07-03 13:26:49:INFO:*************** test_title_verification_for_settigspage - Title Matched *********************
+2024-07-03 13:26:51:INFO:*************** Test_Settings *********************
+2024-07-03 13:27:34:INFO:*************** Test_Settings *********************
+2024-07-03 13:27:34:INFO:*************** verification of settings page title *********************
+2024-07-03 13:27:45:INFO:*************** Test_Settings *********************
+2024-07-03 13:29:16:INFO:*************** Test_Settings *********************
+2024-07-03 13:29:16:INFO:*************** verification of settings page title *********************
+2024-07-03 13:29:29:INFO:*************** test_title_verification_for_settigspage - Title Matched *********************
+2024-07-03 13:29:31:INFO:*************** Test_Settings *********************
+2024-07-03 13:29:53:INFO:*************** test_settings_enteremail - email entered *********************
+2024-07-03 15:03:52:WARNING:Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-07-03 15:03:53:INFO:*************** Test_Settings *********************
+2024-07-03 15:03:53:INFO:*************** verification of settings page title *********************
+2024-07-03 15:04:09:INFO:*************** test_title_verification_for_settigspage - Title Matched *********************
+2024-07-03 15:04:12:INFO:*************** Test_Settings *********************
+2024-07-03 15:04:36:INFO:*************** test_settings_enteremail - email entered *********************
+2024-07-03 15:04:38:INFO:*************** Test_Settings *********************
+2024-07-03 15:08:26:INFO:*************** Test_Settings *********************
+2024-07-03 15:08:26:INFO:*************** verification of settings page title *********************
+2024-07-03 15:08:42:INFO:*************** test_title_verification_for_settigspage - Title Matched *********************
+2024-07-03 15:08:45:INFO:*************** Test_Settings *********************
+2024-07-03 15:09:10:INFO:*************** test_settings_enteremail - email entered *********************
+2024-07-03 15:09:12:INFO:*************** Test_Settings *********************
+2024-07-03 15:11:12:INFO:*************** Test_Settings *********************
+2024-07-03 15:11:40:INFO:*************** Test_Settings *********************
+2024-07-03 15:12:37:INFO:*************** Test_Settings *********************
+2024-07-03 15:13:02:INFO:*************** test_settings_enteremail - email entered *********************
+2024-07-03 15:13:05:INFO:*************** Test_Settings *********************
+2024-07-03 15:13:32:INFO:*************** test_settings_remove_email - email Removed *********************
+2024-07-03 16:41:50:INFO:*************** Test_Settings *********************
+2024-07-03 16:42:15:INFO:*************** Test_Settings *********************
+2024-07-03 16:42:43:INFO:*************** test_settings_remove_email - email Removed *********************
+2024-07-03 16:42:44:INFO:*************** Test_Settings *********************
+2024-07-03 16:42:44:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-03 16:46:13:INFO:*************** Test_Settings *********************
+2024-07-03 16:46:36:INFO:*************** test_settings_enteremail - email entered *********************
+2024-07-03 16:46:38:INFO:*************** Test_Settings *********************
+2024-07-03 16:47:12:INFO:*************** Test_Settings *********************
+2024-07-03 16:47:12:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-03 16:54:06:INFO:*************** Test_Settings *********************
+2024-07-03 16:54:29:INFO:*************** test_settings_enteremail - email entered *********************
+2024-07-03 16:54:33:INFO:*************** Test_Settings *********************
+2024-07-03 16:55:06:INFO:*************** Test_Settings *********************
+2024-07-03 16:55:06:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-03 17:01:57:INFO:*************** Test_Settings *********************
+2024-07-03 17:02:21:INFO:*************** Test_Settings *********************
+2024-07-03 17:02:52:INFO:*************** Test_Settings *********************
+2024-07-03 17:02:52:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-03 17:03:16:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-03 17:03:16:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-03 17:03:40:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-03 17:03:40:INFO:*************** Testing Email:            *********************
+2024-07-03 17:04:04:INFO:*************** Email '          ' validation text found *********************
+2024-07-03 17:04:04:INFO:*************** Testing Email: tulasi@gmail.com  *********************
+2024-07-03 17:04:29:INFO:*************** Email 'tulasi@gmail.com ' validation text found *********************
+2024-07-03 17:04:29:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-03 17:04:53:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-03 17:04:53:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-03 17:05:16:INFO:*************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************
+2024-07-03 17:10:15:INFO:*************** Test_Settings *********************
+2024-07-03 17:10:38:INFO:*************** test_settings_enteremail - email entered *********************
+2024-07-03 17:10:42:INFO:*************** Test_Settings *********************
+2024-07-03 17:10:57:INFO:*************** Test_Settings *********************
+2024-07-03 17:11:11:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-03 17:11:22:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-03 17:11:22:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-03 17:11:32:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-03 17:11:32:INFO:*************** Testing Email:            *********************
+2024-07-03 17:11:42:INFO:*************** Email '          ' validation text found *********************
+2024-07-03 17:11:42:INFO:*************** Testing Email: tulasi@gmail.com  *********************
+2024-07-03 17:11:53:INFO:*************** Email 'tulasi@gmail.com ' validation text found *********************
+2024-07-03 17:11:53:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-03 17:12:03:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-03 17:12:03:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-03 17:12:14:INFO:*************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************
+2024-07-03 17:15:21:INFO:*************** Test_Settings *********************
+2024-07-03 17:15:45:INFO:*************** Test_Settings *********************
+2024-07-03 17:16:01:INFO:*************** Test_Settings *********************
+2024-07-03 17:16:19:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-03 17:16:26:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-03 17:16:26:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-03 17:16:32:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-03 17:16:32:INFO:*************** Testing Email:            *********************
+2024-07-03 17:16:38:INFO:*************** Email '          ' validation text found *********************
+2024-07-03 17:16:38:INFO:*************** Testing Email: tulasi@gmail.com  *********************
+2024-07-03 18:15:08:INFO:*************** Test_Settings *********************
+2024-07-03 18:16:32:INFO:*************** Test_Settings *********************
+2024-07-03 18:22:16:INFO:*************** Test_Settings *********************
+2024-07-03 18:22:30:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-03 18:22:37:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-03 18:22:37:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-03 18:22:43:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-03 18:22:43:INFO:*************** Testing Email:            *********************
+2024-07-03 18:22:49:INFO:*************** Email '          ' validation text found *********************
+2024-07-03 18:22:49:INFO:*************** Testing Email: tulasi@gmail.com  *********************
+2024-07-03 18:22:56:INFO:*************** Email 'tulasi@gmail.com ' validation text found *********************
+2024-07-03 18:22:56:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-03 18:23:02:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-03 18:23:02:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-03 18:28:31:INFO:*************** Test_Settings *********************
+2024-07-03 18:28:45:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-03 18:28:47:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-03 18:28:50:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-03 18:28:52:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-03 18:28:55:INFO:*************** Testing Email:            *********************
+2024-07-03 18:28:58:INFO:*************** Email '          ' validation text found *********************
+2024-07-03 18:29:01:INFO:*************** Testing Email: tulasi@gmail.com  *********************
+2024-07-03 18:29:03:INFO:*************** Email 'tulasi@gmail.com ' validation text found *********************
+2024-07-03 18:29:06:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-03 18:29:09:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-03 18:29:12:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-03 18:29:14:INFO:*************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************
+2024-07-03 18:32:09:INFO:*************** Test_Settings *********************
+2024-07-03 18:32:24:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-03 18:32:26:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-03 18:32:29:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-03 18:32:30:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-03 18:32:33:INFO:*************** Testing Email:            *********************
+2024-07-03 18:32:34:INFO:*************** Email '          ' validation text found *********************
+2024-07-03 18:32:37:INFO:*************** Testing Email: tulasi@gmail.com  *********************
+2024-07-03 18:32:38:INFO:*************** Email 'tulasi@gmail.com ' validation text found *********************
+2024-07-03 18:32:41:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-03 18:32:42:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-03 18:32:45:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-03 18:32:47:INFO:*************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************
+2024-07-03 18:35:27:INFO:*************** Test_Settings *********************
+2024-07-03 18:35:42:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-03 18:35:44:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-03 18:35:45:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-03 18:35:46:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-03 18:35:47:INFO:*************** Testing Email:            *********************
+2024-07-03 18:35:48:INFO:*************** Email '          ' validation text found *********************
+2024-07-03 18:35:49:INFO:*************** Testing Email: tulasi@gmail.com  *********************
+2024-07-03 18:35:50:INFO:*************** Email 'tulasi@gmail.com ' validation text found *********************
+2024-07-03 18:35:51:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-03 18:35:53:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-03 18:35:54:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-03 18:35:55:INFO:*************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************
+2024-07-03 18:39:55:INFO:*************** Test_Settings *********************
+2024-07-03 18:40:11:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-03 18:40:12:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-03 18:40:13:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-03 18:40:15:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-03 18:40:16:INFO:*************** Testing Email:            *********************
+2024-07-03 18:40:17:INFO:*************** Email '          ' validation text found *********************
+2024-07-03 18:40:18:INFO:*************** Testing Email: tulasi@gmail.com  *********************
+2024-07-03 18:40:19:INFO:*************** Email 'tulasi@gmail.com ' validation text found *********************
+2024-07-03 18:40:20:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-03 18:40:21:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-03 18:40:22:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-03 18:40:24:INFO:*************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************
+2024-07-03 18:41:15:INFO:*************** Test_Settings *********************
+2024-07-03 18:41:30:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-03 18:41:31:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-03 18:41:32:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-03 18:41:34:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-03 18:41:35:INFO:*************** Testing Email:            *********************
+2024-07-03 18:41:36:INFO:*************** Email '          ' validation text found *********************
+2024-07-03 18:41:37:INFO:*************** Testing Email: tulasi@gmail.com  *********************
+2024-07-03 18:41:38:INFO:*************** Email 'tulasi@gmail.com ' validation text found *********************
+2024-07-03 18:41:39:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-03 18:41:40:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-03 18:41:41:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-03 18:41:43:INFO:*************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************
+2024-07-03 18:45:26:INFO:*************** Test_Settings *********************
+2024-07-03 18:45:41:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-03 18:45:42:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-03 18:45:44:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-03 18:45:46:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-03 18:45:48:INFO:*************** Testing Email:            *********************
+2024-07-03 18:45:49:INFO:*************** Email '          ' validation text found *********************
+2024-07-03 18:45:51:INFO:*************** Testing Email: tulasi@gmail.com  *********************
+2024-07-03 18:45:52:INFO:*************** Email 'tulasi@gmail.com ' validation text found *********************
+2024-07-03 18:45:54:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-03 18:45:56:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-03 18:45:58:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-03 18:45:59:INFO:*************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************
+2024-07-03 18:48:33:INFO:*************** Test_Settings *********************
+2024-07-03 18:48:47:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-03 18:48:50:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-03 18:48:51:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-03 18:48:53:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-03 18:48:54:INFO:*************** Testing Email:            *********************
+2024-07-03 18:48:57:INFO:*************** Email '          ' validation text found *********************
+2024-07-03 18:48:58:INFO:*************** Testing Email: tulasi@gmail.com  *********************
+2024-07-03 18:49:00:INFO:*************** Email 'tulasi@gmail.com ' validation text found *********************
+2024-07-03 18:49:01:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-03 18:49:03:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-03 18:49:04:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-03 18:49:07:INFO:*************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************
+2024-07-03 18:50:17:INFO:*************** Test_Settings *********************
+2024-07-03 18:50:32:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-03 18:50:34:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-03 18:50:35:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-03 18:50:36:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-03 18:50:37:INFO:*************** Testing Email:            *********************
+2024-07-03 18:50:38:INFO:*************** Email '          ' validation text found *********************
+2024-07-03 18:50:39:INFO:*************** Testing Email: tulasi@gmail.com  *********************
+2024-07-03 18:50:40:INFO:*************** Email 'tulasi@gmail.com ' validation text found *********************
+2024-07-03 18:50:41:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-03 18:50:43:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-03 18:50:44:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-03 18:50:45:INFO:*************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************
+2024-07-03 18:52:14:INFO:*************** Test_Settings *********************
+2024-07-03 18:52:30:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-03 18:52:31:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-03 18:52:35:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-03 18:52:36:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-03 18:52:40:INFO:*************** Testing Email:            *********************
+2024-07-03 18:52:42:INFO:*************** Email '          ' validation text found *********************
+2024-07-03 18:52:46:INFO:*************** Testing Email: tulasi@gmail.com  *********************
+2024-07-03 18:52:47:INFO:*************** Email 'tulasi@gmail.com ' validation text found *********************
+2024-07-03 18:52:51:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-03 18:52:52:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-03 18:52:56:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-03 18:52:58:INFO:*************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************
+2024-07-03 18:54:22:INFO:*************** Test_Settings *********************
+2024-07-03 18:54:38:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-03 18:54:39:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-03 18:54:43:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-03 18:54:45:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-03 18:54:49:INFO:*************** Testing Email:            *********************
+2024-07-03 18:54:50:INFO:*************** Email '          ' validation text found *********************
+2024-07-03 18:54:54:INFO:*************** Testing Email: tulasi@gmail.com  *********************
+2024-07-03 18:54:55:INFO:*************** Email 'tulasi@gmail.com ' validation text found *********************
+2024-07-03 18:54:59:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-03 18:55:01:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-03 18:55:05:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-03 18:55:06:INFO:*************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************
+2024-07-03 19:01:08:INFO:*************** Test_Settings *********************
+2024-07-03 19:01:24:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-03 19:01:25:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-03 19:01:27:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-03 19:01:29:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-03 19:01:31:INFO:*************** Testing Email:            *********************
+2024-07-03 19:01:32:INFO:*************** Email '          ' validation text found *********************
+2024-07-03 19:01:34:INFO:*************** Testing Email: tulasi@gmail.com  *********************
+2024-07-03 19:01:35:INFO:*************** Email 'tulasi@gmail.com ' validation text found *********************
+2024-07-03 19:01:37:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-03 19:01:39:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-03 19:01:41:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-03 19:01:42:INFO:*************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************
+2024-07-03 19:04:17:INFO:*************** Test_Settings *********************
+2024-07-03 19:04:33:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-03 19:04:35:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-03 19:04:36:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-03 19:04:39:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-03 19:04:40:INFO:*************** Testing Email:            *********************
+2024-07-03 19:04:42:INFO:*************** Email '          ' validation text found *********************
+2024-07-03 19:04:43:INFO:*************** Testing Email: tulasi@gmail.com  *********************
+2024-07-03 19:04:45:INFO:*************** Email 'tulasi@gmail.com ' validation text found *********************
+2024-07-03 19:04:46:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-03 19:04:49:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-03 19:04:50:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-03 19:04:52:INFO:*************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************
+2024-07-03 19:05:54:INFO:*************** Test_Settings *********************
+2024-07-03 19:06:09:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-03 19:06:12:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-03 19:06:13:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-03 19:06:15:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-03 19:06:16:INFO:*************** Testing Email:            *********************
+2024-07-03 19:06:18:INFO:*************** Email '          ' validation text found *********************
+2024-07-03 19:06:19:INFO:*************** Testing Email: tulasi@gmail.com  *********************
+2024-07-03 19:06:21:INFO:*************** Email 'tulasi@gmail.com ' validation text found *********************
+2024-07-03 19:06:22:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-03 19:06:25:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-03 19:06:26:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-03 19:06:28:INFO:*************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************
+2024-07-03 19:06:56:INFO:*************** Test_Settings *********************
+2024-07-03 19:07:12:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-03 19:07:14:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-03 19:07:15:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-03 19:07:18:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-03 19:07:19:INFO:*************** Testing Email:            *********************
+2024-07-03 19:07:21:INFO:*************** Email '          ' validation text found *********************
+2024-07-03 19:07:22:INFO:*************** Testing Email: tulasi@gmail.com  *********************
+2024-07-03 19:07:24:INFO:*************** Email 'tulasi@gmail.com ' validation text found *********************
+2024-07-03 19:07:25:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-03 19:07:27:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-03 19:07:28:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-03 19:07:30:INFO:*************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************
+2024-07-04 11:02:30:INFO:*************** Test_Settings *********************
+2024-07-04 11:04:43:INFO:*************** Test_Settings *********************
+2024-07-04 11:05:08:INFO:*************** Test_Settings *********************
+2024-07-04 11:29:05:INFO:*************** Test_Settings *********************
+2024-07-04 11:29:34:INFO:*************** test_settings_enteremail - email entered *********************
+2024-07-04 11:46:15:INFO:*************** Test_Settings *********************
+2024-07-04 11:46:15:INFO:*************** verification of settings page title *********************
+2024-07-04 11:46:30:INFO:*************** test_title_verification_for_settigspage - Title Matched *********************
+2024-07-04 11:46:32:INFO:*************** Test_Settings *********************
+2024-07-04 11:46:56:INFO:*************** Test_Settings *********************
+2024-07-04 11:47:28:WARNING:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002DD697C0EF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0079cdfe1318bbdd04ed0f84959f6877/element
+2024-07-04 11:47:32:WARNING:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002DD697C16D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0079cdfe1318bbdd04ed0f84959f6877/element
+2024-07-04 11:47:37:WARNING:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002DD697C1940>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0079cdfe1318bbdd04ed0f84959f6877/element
+2024-07-04 11:47:42:INFO:*************** Test_Settings *********************
+2024-07-04 11:49:16:INFO:*************** Test_Settings *********************
+2024-07-04 11:49:16:INFO:*************** verification of settings page title *********************
+2024-07-04 11:49:30:INFO:*************** test_title_verification_for_settigspage - Title Matched *********************
+2024-07-04 11:49:31:INFO:*************** Test_Settings *********************
+2024-07-04 11:49:58:INFO:*************** test_settings_enteremail - email entered *********************
+2024-07-04 11:50:01:INFO:*************** Test_Settings *********************
+2024-07-04 11:50:13:INFO:*************** Test_Settings *********************
+2024-07-04 11:55:54:INFO:*************** Test_Settings *********************
+2024-07-04 11:55:54:INFO:*************** verification of settings page title *********************
+2024-07-04 11:56:08:INFO:*************** test_title_verification_for_settigspage - Title Matched *********************
+2024-07-04 11:56:10:INFO:*************** Test_Settings *********************
+2024-07-04 11:56:26:INFO:*************** Test_Settings *********************
+2024-07-04 11:56:41:INFO:*************** Test_Settings *********************
+2024-07-04 11:56:56:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-04 11:56:58:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-04 11:56:59:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-04 11:57:01:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-04 11:57:02:INFO:*************** Testing Email:            *********************
+2024-07-04 11:57:05:INFO:*************** Email '          ' validation text found *********************
+2024-07-04 11:57:06:INFO:*************** Testing Email: tulasi@gmail.com  *********************
+2024-07-04 11:57:08:INFO:*************** Email 'tulasi@gmail.com ' validation text found *********************
+2024-07-04 11:57:09:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-04 11:57:11:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-04 11:57:12:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-04 11:57:14:INFO:*************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************
+2024-07-04 12:04:23:INFO:*************** Test_Settings *********************
+2024-07-04 12:04:23:INFO:*************** verification of settings page title *********************
+2024-07-04 12:04:37:INFO:*************** test_title_verification_for_settigspage - Title Matched *********************
+2024-07-04 12:04:39:INFO:*************** Test_Settings *********************
+2024-07-04 12:05:07:INFO:*************** Test_Settings *********************
+2024-07-04 12:05:22:INFO:*************** Test_Settings *********************
+2024-07-04 12:05:37:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-04 12:05:39:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-04 12:05:40:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-04 12:05:42:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-04 12:05:43:INFO:*************** Testing Email:            *********************
+2024-07-04 12:05:45:INFO:*************** Email '          ' validation text found *********************
+2024-07-04 12:05:46:INFO:*************** Testing Email: tulasi@gmail.com  *********************
+2024-07-04 12:05:49:INFO:*************** Email 'tulasi@gmail.com ' validation text found *********************
+2024-07-04 12:05:50:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-04 12:05:52:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-04 12:05:53:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-04 12:05:55:INFO:*************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************
+2024-07-04 12:25:10:INFO:*************** Test_Settings *********************
+2024-07-04 12:25:10:INFO:*************** verification of settings page title *********************
+2024-07-04 12:25:23:INFO:*************** Test_Settings *********************
+2024-07-04 12:25:54:INFO:*************** test_settings_enteremail - email entered *********************
+2024-07-04 12:25:57:INFO:*************** Test_Settings *********************
+2024-07-04 12:26:09:INFO:*************** Test_Settings *********************
+2024-07-04 12:26:24:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-04 12:26:27:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-04 12:26:28:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-04 12:26:30:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-04 12:26:31:INFO:*************** Testing Email:            *********************
+2024-07-04 12:26:33:INFO:*************** Email '          ' validation text found *********************
+2024-07-04 12:26:34:INFO:*************** Testing Email: tulasi@gmail.com  *********************
+2024-07-04 12:26:36:INFO:*************** Email 'tulasi@gmail.com ' validation text found *********************
+2024-07-04 12:26:37:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-04 12:26:40:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-04 12:26:41:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-04 12:26:43:INFO:*************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************
+2024-07-04 12:42:26:INFO:*************** Test_Settings *********************
+2024-07-04 12:42:26:INFO:*************** verification of settings page title *********************
+2024-07-04 12:42:42:INFO:*************** test_title_verification_for_settigspage - Title Matched *********************
+2024-07-04 12:42:44:INFO:*************** Test_Settings *********************
+2024-07-04 12:43:14:INFO:*************** test_settings_enteremail - email entered *********************
+2024-07-04 12:43:18:INFO:*************** Test_Settings *********************
+2024-07-04 12:43:45:INFO:*************** Test_Settings *********************
+2024-07-04 12:44:10:INFO:*************** Test_Settings *********************
+2024-07-04 12:44:25:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-04 12:44:28:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-04 12:44:29:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-04 12:44:31:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-04 12:44:32:INFO:*************** Testing Email:            *********************
+2024-07-04 12:44:34:INFO:*************** Email '          ' validation text found *********************
+2024-07-04 12:44:35:INFO:*************** Testing Email: tulasi@gmail.com  *********************
+2024-07-04 12:44:37:INFO:*************** Email 'tulasi@gmail.com ' validation text found *********************
+2024-07-04 12:44:38:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-04 12:44:40:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-04 12:44:41:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-04 12:44:44:INFO:*************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************
+2024-07-04 12:47:27:INFO:*************** Test_Settings *********************
+2024-07-04 12:47:27:INFO:*************** verification of settings page title *********************
+2024-07-04 12:47:41:INFO:*************** test_title_verification_for_settigspage - Title Matched *********************
+2024-07-04 12:47:43:INFO:*************** Test_Settings *********************
+2024-07-04 12:48:13:INFO:*************** test_settings_enteremail - email entered *********************
+2024-07-04 12:48:17:INFO:*************** Test_Settings *********************
+2024-07-04 12:48:43:INFO:*************** Test_Settings *********************
+2024-07-04 12:48:58:INFO:*************** Testing Email: tulasi@gmail.commmmmmm *********************
+2024-07-04 12:49:00:INFO:*************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+2024-07-04 12:49:01:INFO:*************** Testing Email: tulasi@gmail.c *********************
+2024-07-04 12:49:03:INFO:*************** Email 'tulasi@gmail.c' validation text found *********************
+2024-07-04 12:49:04:INFO:*************** Testing Email:            *********************
+2024-07-04 12:49:06:INFO:*************** Email '          ' validation text found *********************
+2024-07-04 12:49:07:INFO:*************** Testing Email: tulasi@gmail.com  *********************
+2024-07-04 12:49:09:INFO:*************** Email 'tulasi@gmail.com ' validation text found *********************
+2024-07-04 12:49:10:INFO:*************** Testing Email: 56554@@gmail.com *********************
+2024-07-04 12:49:13:INFO:*************** Email '56554@@gmail.com' validation text found *********************
+2024-07-04 12:49:14:INFO:*************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+2024-07-04 12:49:16:INFO:*************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************
+2024-07-04 16:02:02:INFO:*************** Test_Dashboard *********************
+2024-07-04 16:02:02:INFO:*************** verification of Dashboard page title *********************
+2024-07-04 16:02:13:INFO:*************** test_title_verification_for_dashboad - Title Matched *********************
+2024-07-04 16:02:15:INFO:*************** Test_Dashboard table *********************
+2024-07-04 16:02:15:INFO:*************** Table data is printed *********************
+2024-07-04 16:03:02:INFO:*************** Test_Dashboard *********************
+2024-07-04 16:03:02:INFO:*************** verification of Dashboard page title *********************
+2024-07-04 16:03:13:INFO:*************** test_title_verification_for_dashboad - Title Matched *********************
+2024-07-04 16:03:14:INFO:*************** Test_Dashboard table *********************
+2024-07-04 16:03:14:INFO:*************** Table data is printed *********************
+2024-07-04 17:33:03:INFO:*************** Test_Dashboard table *********************
+2024-07-04 17:33:03:INFO:*************** Table data is printed *********************
+2024-07-04 17:33:14:INFO:*************** Dashboard serives count matched *********************
+2024-07-04 17:59:03:INFO:*************** Test_Dashboard verify hosts count *********************
+2024-07-04 17:59:03:INFO:*************** hosts count = live+offline+stale *********************
+2024-07-04 17:59:08:INFO:*************** Test_Dashboard verify services count *********************
+2024-07-04 17:59:08:INFO:*************** services count = ok+warn+crit *********************
+2024-07-08 10:57:20:INFO:*************** Test_Dashboard verify hosts count *********************
+2024-07-08 10:57:20:INFO:*************** hosts count = live+offline+stale *********************
+2024-07-08 10:57:31:INFO:*************** Dashboard hosts count matched with live,offline,stale *********************
+2024-07-08 10:57:35:INFO:*************** Test_Dashboard verify services count *********************
+2024-07-08 10:57:35:INFO:*************** services count = ok+warn+crit *********************
+2024-07-08 10:57:45:INFO:*************** Dashboard serives count matched with ok,warn,crit *********************
+2024-07-08 11:11:23:INFO:*************** Test_Dashboard *********************
+2024-07-08 11:11:23:INFO:*************** verification of Dashboard page title *********************
+2024-07-08 11:11:33:INFO:*************** test_title_verification_for_dashboad - Title Matched *********************
+2024-07-08 11:11:35:INFO:*************** Test_Dashboard table *********************
+2024-07-08 11:11:35:INFO:*************** Table data is printed *********************
+2024-07-08 11:11:47:INFO:*************** Test_Dashboard verify hosts count *********************
+2024-07-08 11:11:47:INFO:*************** hosts count = live+offline+stale *********************
+2024-07-08 11:11:56:INFO:*************** Dashboard hosts count matched with live,offline,stale *********************
+2024-07-08 11:12:00:INFO:*************** Test_Dashboard verify services count *********************
+2024-07-08 11:12:00:INFO:*************** services count = ok+warn+crit *********************
+2024-07-08 11:12:10:INFO:*************** Dashboard serives count matched with ok,warn,crit *********************
+2024-07-08 12:12:27:INFO:*************** test_print_dashboard_lama_values print lama values *********************
+2024-07-08 12:12:27:INFO:*************** printing lama values *********************
+2024-07-08 12:13:41:INFO:*************** test_print_dashboard_lama_values print lama values *********************
+2024-07-08 12:13:41:INFO:*************** printing lama values *********************
+2024-07-08 12:16:57:INFO:*************** test_print_dashboard_lama_values print lama values *********************
+2024-07-08 12:16:57:INFO:*************** printing lama values *********************
+2024-07-08 12:18:24:INFO:*************** test_print_dashboard_lama_values print lama values *********************
+2024-07-08 12:18:24:INFO:*************** printing lama values *********************
+2024-07-08 12:30:52:INFO:*************** test_print_dashboard_lama_values print lama uat values *********************
+2024-07-08 12:30:52:INFO:*************** printing lama uat values *********************
+2024-07-08 12:40:57:INFO:*************** test_print_dashboard_lama_values print lama uat values *********************
+2024-07-08 12:40:57:INFO:*************** printing lama uat values *********************
+2024-07-08 12:41:09:INFO:*************** test_print_dashboard_lamaprod_values print lama prod values *********************
+2024-07-08 12:41:09:INFO:*************** printing lama prod values *********************

@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_Login.py:45 *************** test_login_page_validation started *********************
+[32mINFO    [0m root:test_Login.py:56 *************** login page verification text found *********************

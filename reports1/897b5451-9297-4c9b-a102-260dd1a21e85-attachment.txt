@@ -1,0 +1,9 @@
+[32mINFO    [0m root:test_Login.py:165 *************** test_login_email_invaliddetails strted *********************
+[32mINFO    [0m root:test_Login.py:182 *************** Testing Email: tulasi@gmail.commmmmmm *********************
+[32mINFO    [0m root:test_Login.py:195 *************** Email 'tulasi@gmail.commmmmmm' validation text found *********************
+[32mINFO    [0m root:test_Login.py:182 *************** Testing Email: tulasi@gmail.c *********************
+[32mINFO    [0m root:test_Login.py:195 *************** Email 'tulasi@gmail.c' validation text found *********************
+[32mINFO    [0m root:test_Login.py:182 *************** Testing Email: 56554@@gmail.com *********************
+[32mINFO    [0m root:test_Login.py:195 *************** Email '56554@@gmail.com' validation text found *********************
+[32mINFO    [0m root:test_Login.py:182 *************** Testing Email: #$%$#%^^^%$@@gmail.com *********************
+[32mINFO    [0m root:test_Login.py:195 *************** Email '#$%$#%^^^%$@@gmail.com' validation text found *********************

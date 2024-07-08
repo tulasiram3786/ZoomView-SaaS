@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_Settings.py:19 *************** Test_Settings *********************
+[32mINFO    [0m root:test_Settings.py:20 *************** verification of settings page title *********************
