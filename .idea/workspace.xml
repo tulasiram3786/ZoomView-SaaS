@@ -4,49 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="200c7de4-f139-4724-8e78-b3492b0e4f49" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/base_pages/Infrastructure_Page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_pages/Settings_Page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/00d15a49-f722-44e9-bd28-bad30a3411bd-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/09120db3-1160-4889-9723-a1293e4e8b67-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/0fcc9bd8-184c-49ef-8c2e-ce27c4f137d0-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/100121a8-bbfd-40ca-99ce-9f6aab691ede-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/1934527a-9c11-41f8-a66d-ca8325595fa2-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/1e1484b3-6d8b-4fd0-9a8b-d9dd63468404-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/2043e67d-0387-4ade-b290-48c22b4320c2-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/33e1bc1e-aa45-4431-9c6a-f1977d813981-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/387565c5-09f0-4dc6-bdd2-589b33750748-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/3a5b6503-a6c5-450e-baf7-2e320959016b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/3ed644ad-613d-4f2b-bcc8-834306a981ee-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/50ad7f66-ba24-4a26-9e00-465f26b4dbc3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/5a703939-4883-4736-8552-39f0a6c697ab-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/5eda2ddb-e5ea-4246-be9e-b3862f5934f4-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/897b5451-9297-4c9b-a102-260dd1a21e85-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/8a8e5ecc-54ec-4a77-a6ac-a2dfee5d4301-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/8d11683c-34a0-4588-b9c5-5b7c2e63d16f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/9b0b614e-ee16-415a-854a-4950223e5ba1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/a0686454-5082-4146-b178-5d5003676fad-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/a96afa12-6547-41b8-8591-544b823fea63-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/b5362f9b-0e63-4f30-98ef-166566bfb165-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/bf0587e8-63d5-47db-a742-42cea27dc2da-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/c154135f-cc90-4f3c-85c6-45c55887330d-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/d098ed9c-2be5-4cda-94e7-e3e8ad19718a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/d5aa2700-e40a-4f53-84aa-22a909fd77f0-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/e13962e0-944e-4de8-9fcb-657368eb166e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/eab14806-ebad-4fe3-9a30-9d101db122cc-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/f2e1dc7d-2391-4d9d-9dc5-41341211ea53-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/fc76bd07-9ad8-4b8b-a853-3b2845888fae-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports1/fe7d58ae-b974-4f6c-850c-34bad21b6a83-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_cases/test_Infrastructure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_cases/test_Settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_pages/Dashboard_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/base_pages/Dashboard_Page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/zoomview.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/zoomview.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/table_output1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/table_output1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_cases/test_Dashboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/test_Dashboard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_cases/test_Forgotpassword.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/test_Forgotpassword.py" afterDir="false" />
-    </list>
+    <list default="true" id="200c7de4-f139-4724-8e78-b3492b0e4f49" name="Changes" comment="test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
